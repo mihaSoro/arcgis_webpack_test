@@ -1,0 +1,8 @@
+{
+    "version":"2019.0",
+    "apiUrl":"https://js.arcgis.com/4.15/",
+    "bicesEnabled": false,
+    "BICESURLs":{
+        "profile": ""
+    }
+}    
